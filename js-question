@@ -1,0 +1,8 @@
+1.  if student marks is greater than 90 print "A" 
+    if greater than 70 or less than 90 print "B"
+    else "c"
+
+2. if age is greater than 18 or from country indeia then elligible for vote
+3. arithmetic operation with switch
+4. check value is string or number
+5. enter two numbers and calculate percentage an then print grade using switch
